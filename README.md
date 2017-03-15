@@ -26,11 +26,11 @@ Features:
     Users with the exact same username/password
     Users with a password which is a de-1337/variation of their username
     
-    Then after this is all said/done there is a domain password audit mode. This is intended to emulate a Windows domain, so you can enter your password policy (ie. [all optional] min length 8, require x numeric, x upper) and then complexity. If complexity is entered then it will spit out a list of accounts and their passwords which do not adhere to the domain/password policy. This is to catch old service/machine/user accounts which have not been updated to a new password policy, but in reality this will never return any results, as this never happens, never ever...
+Then after this is all said/done there is a domain password audit mode. This is intended to emulate a Windows domain, so you can enter your password policy (ie. [all optional] min length 8, require x numeric, x upper) and then complexity. If complexity is entered then it will spit out a list of accounts and their passwords which do not adhere to the domain/password policy. This is to catch old service/machine/user accounts which have not been updated to a new password policy, but in reality this will never return any results, as this never happens, never ever...
     
-    This is not written to be efficient, but it is written to be fast. Sets are loaded into memory, and multi threading is used, it is fairly resource intensive. I've had some benchmarks of 20k passwords = 130ms, 100k passwords = 616ms, 1mill = 6 seconds, 10mill = 73 seconds (purely processing, not writing to stdout) on my i7 laptop. I'd like to make this better/add more relevant stats. If anyone has any large datasets, or happens to bump in to troy hunt down the pub, please send them over!
+This is not written to be efficient, but it is written to be fast (as an alternative to pipal, which seemed to take ages for me). Sets are loaded into memory, and multi threading is used, it is fairly resource intensive. I've had some benchmarks of 20k passwords = 130ms, 100k passwords = 616ms, 1mill = 6 seconds, 10mill = 73 seconds (purely processing, not writing to stdout) on my i7 laptop. I'd like to make this better/add more relevant stats. If anyone has any large datasets, or happens to bump in to troy hunt down the pub, please send them over!
     
-    Cheers
+Cheers
     
 Example usage on a 10k password file is below:
 
