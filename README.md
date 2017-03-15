@@ -438,14 +438,21 @@ Users with the a password which is a 1337/variation of their username (1%)
   
   	(snipped)
 
-Do you wish to check stats against a password policy? Nb. this adheres to the windows password policy format, where string have three of 	the 4 with regards to complexity, upper, lower, and numeric (yes/no)
-Enter minimum password length:
-Require uppercase? (yes/no)
-Do want to specify how many uppercase characters? (yes/no)
-Enforce numeric characters? (yes/no)
-Do want to specify how many numeric characters? (yes/no)
-Enforce complexity? (yes/no)
-Do want to specify how many special characters? (yes/no)
+	Do you wish to check stats against a password policy? Nb. this adheres to the windows password policy format, where string have three of the 4 with regards to complexity, upper, lower, and numeric (yes/no)
+	
+	Enter minimum password length:
+	
+	Require uppercase? (yes/no)
+
+	Do want to specify how many uppercase characters? (yes/no)
+
+	Enforce numeric characters? (yes/no)
+
+	Do want to specify how many numeric characters? (yes/no)
+
+	Enforce complexity? (yes/no)
+	
+	Do want to specify how many special characters? (yes/no)
 
 
 
