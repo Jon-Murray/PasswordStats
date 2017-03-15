@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Concurrent;
 using System.Collections.Generic;
 using System.Diagnostics;
@@ -2186,7 +2186,15 @@ namespace PasswordStats
                 Console.WriteLine();
                 Console.WriteLine();
 
+                if (args[0] == "-h" || args[0] == "--help")
+                {
+                    Console.WriteLine("give it a file in the format of username:password. Optionally specify a log file.....");
+                    return;
+                }
+
                 var toStat = File.ReadAllLines(args[0]);
+
+              
 
                 bool johnMode = false;
                 if (toStat.FirstOrDefault(x => x.Contains(":")) != null)
