@@ -438,57 +438,57 @@ Users with the a password which is a 1337/variation of their username (1%)
 	bhop69:bhop                        1(0%)
 	bhira:bhira123                     1(0%)
   
-  (snipped)
+  	(snipped)
 
-Do you wish to check stats against a password policy? Nb. this adheres to the windows password policy format, where string have three of the 4 with regards to complexity, upper, lower, and numeric (yes/no)
-Enter minimum password length:
-Require uppercase? (yes/no)
-Do want to specify how many uppercase characters? (yes/no)
-Enforce numeric characters? (yes/no)
-Do want to specify how many numeric characters? (yes/no)
-Enforce complexity? (yes/no)
-Do want to specify how many special characters? (yes/no)
+	Do you wish to check stats against a password policy? Nb. this adheres to the windows password policy format, where string have three of 	the 4 with regards to complexity, upper, lower, and numeric (yes/no)
+	Enter minimum password length:
+	Require uppercase? (yes/no)
+	Do want to specify how many uppercase characters? (yes/no)
+	Enforce numeric characters? (yes/no)
+	Do want to specify how many numeric characters? (yes/no)
+	Enforce complexity? (yes/no)
+	Do want to specify how many special characters? (yes/no)
 
 
 
-bh0307:born2
-bh0307:born28
-bh03180:mandinga
-bh0320:bigblock
-BH0422:761480
-bh0464:0464bh
-bh051993:4sa7ya
-bh051993:hercules
-bh051993:hercules99
-bh051993_639:hercules
-bh051993_784:hercules
-bh0593:4sa7ya
-bh0717:bdpowell
-bh0717:jfleet
-bh0763:ok1650
-bh09:md2020
-bh09319:stud18
-bh0f:r1o6j
-bh0mcp6x:gmqb5oj
-bh0w8d63:standby
-bh1:davesash
-bh100man:arntim3
-bh101074:bt061193
-bh-1022:133010
-bh1024:lyfiehin
-bh1035:123456
-BH1101:whoop02
-bh11155:bertharv54
-bh1116:adventu99
-bh1116:chibears
-bh1116:crimson
-bh1175:robby
-bh119jl:123456
-bh119jl:bh119jl
-bh12084:prelude
-bh121:purpl
-bh1224:fairview
-bh1229:1229bh
-bh1234:1234 (too short - 4 characters)
+	bh0307:born2
+	bh0307:born28
+	bh03180:mandinga
+	bh0320:bigblock
+	BH0422:761480
+	bh0464:0464bh
+	bh051993:4sa7ya
+	bh051993:hercules
+	bh051993:hercules99
+	bh051993_639:hercules
+	bh051993_784:hercules
+	bh0593:4sa7ya
+	bh0717:bdpowell
+	bh0717:jfleet
+	bh0763:ok1650
+	bh09:md2020
+	bh09319:stud18
+	bh0f:r1o6j
+	bh0mcp6x:gmqb5oj
+	bh0w8d63:standby
+	bh1:davesash
+	bh100man:arntim3
+	bh101074:bt061193
+	bh-1022:133010
+	bh1024:lyfiehin
+	bh1035:123456
+	BH1101:whoop02
+	bh11155:bertharv54
+	bh1116:adventu99
+	bh1116:chibears
+	bh1116:crimson
+	bh1175:robby
+	bh119jl:123456
+	bh119jl:bh119jl
+	bh12084:prelude
+	bh121:purpl
+	bh1224:fairview
+	bh1229:1229bh
+	bh1234:1234 (too short - 4 characters)
 
-(massively snipped, as there was obviously no password policy)    
+	(massively snipped, as there was obviously no password policy)    
