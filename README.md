@@ -1,7 +1,7 @@
 # PasswordStats
 A tool to gather more thorough password statistics from password dumps.
 
-Recently, I was tasked to do a password audit of a large amount of passwords. The tools that were available before were missing several features which would give valuable insight into the users' passwords. I decided to make a quick tool to make use of these stats easily. Use in the form of "PasswordFile.exe <username:passwordfile><OptionalLogfile>"
+Recently, I was tasked to do a password audit of a large amount of passwords. The tools that were available before were missing several features which would give valuable insight into the users' passwords. I decided to make a quick tool to make use of these stats easily. Use in the form of "PasswordFile.exe <username:passwordfile><OptionalLogfile>". nb. this is really designed for DOMAIN audits, using it with website dumps, etc. will still give the stats, but will probably spam you.
 
 Features:
 
