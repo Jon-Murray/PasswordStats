@@ -169,10 +169,9 @@ Top 10 base words (including 1337 versions, ie. Pa55w0rd! -> password):
 	travis       7(0%)
 	born         6(0%)
 
-
-
 Shortest 10 Passwords Cracked:
-	         1(0%) Length: 0
+
+		1(0%) Length: 0
 	paj      1(0%) Length: 3
 	aba      1(0%) Length: 3
 	abc      1(0%) Length: 3
@@ -183,9 +182,8 @@ Shortest 10 Passwords Cracked:
 	cci      1(0%) Length: 3
 	1234     9(0%) Length: 4
 
-
-
 Longest 10 Passwords Cracked:
+
 	barryraywhitehursthopeave1966     1(0%) Length: 29
 	upscmpscgatecateseuescds2013      1(0%) Length: 28
 	bhochudruzhitbhochudruzhit        1(0%) Length: 26
@@ -196,7 +194,6 @@ Longest 10 Passwords Cracked:
 	chickenbidallastxguy              1(0%) Length: 20
 	jack5579manja2636bib              1(0%) Length: 20
 	almiine8564697779417              1(0%) Length: 20
-
 
 
 Days of the week passwords are a 1337 version of, or based on:
